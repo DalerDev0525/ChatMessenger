@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/dark_mode"
+        android:icon="@drawable/sun"
+        android:iconTint="#fff"
+        android:title="Dark Mode"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_new_message"
+        android:icon="@drawable/new_message"
+        android:iconTint="#fff"
+        android:title="New Message"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_sign_out"
+        android:icon="@drawable/ic_sign_out"
+        android:iconTint="#fff"
+        android:title="Sign Out"
+        app:showAsAction="ifRoom" />
+</menu>

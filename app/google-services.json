@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "742975447365",
+    "firebase_url": "https://examplemessanger.firebaseio.com",
+    "project_id": "examplemessanger",
+    "storage_bucket": "examplemessanger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742975447365:android:37b3537b88fb15ba675e2c",
+        "android_client_info": {
+          "package_name": "com.example.examplemessanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742975447365-nmk2rmnfegc0e1togcbun1ge1bisdb7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrshBIEalBNieFkBOxTxj-jkMloUj7Ai8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742975447365-nmk2rmnfegc0e1togcbun1ge1bisdb7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
